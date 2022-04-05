@@ -1,0 +1,133 @@
+.body {
+  font-family: 'Roboto', sans-serif;
+}
+ul {
+  list-style: none;
+}
+.header {
+  background-color: #fff;
+}
+.header-logo {
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  text-decoration: none;
+  font-size: 26px;
+  font-weight: 700;
+}
+.header-logo span {
+  color: #2196f3;
+}
+ul {
+  list-style: none;
+}
+.header-link {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #212121;
+}
+.header-link:hover,
+.header-link:focus {
+  color: #2196f3;
+}
+.header-contacts a {
+  color: #757575;
+}
+.hero {
+  background-color: #2f303a;
+}
+.hero-title {
+  color: #fff;
+  font-size: 44px;
+  font-weight: 900;
+}
+.hero-button {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #2196f3;
+}
+.qualities-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #212121;
+}
+.qualities-text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #757575;
+}
+.what-we-do-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #212121;
+}
+.team {
+  background-color: #f5f4fa;
+}
+.team-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #212121;
+}
+.team-name {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212121;
+}
+.team-text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+.footer {
+  background-color: #2f303a;
+}
+.footer a {
+  text-decoration: none;
+  font-style: normal;
+}
+.footer-logo {
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  text-decoration: none;
+  font-size: 26px;
+  font-weight: 700;
+}
+.footer-logo span {
+  color: #2196f3;
+}
+.footer-address {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.footer-tel,
+.footer-mail {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff99;
+}
+.portfolio-button {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.portfolio-button:hover,
+.portfolio-button:focus {
+  color: #fff;
+  background-color: #2196f3;
+}
+.portfolio-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #212121;
+}
+.portfolio-text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
