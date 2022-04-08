@@ -10,6 +10,7 @@
   --hero-button-hover-bg-color: #188ce8;
   --title-h2-h3-color: #212121;
   --text-color: #757575;
+  --team-item-bg-color: #fff;
   --button-hover-color-text: #fff;
   --button-hover-color-background: #2196f3;
   --button-portfolio-color-text: #212121;
@@ -112,6 +113,9 @@
 }
 .team {
   background-color: #f5f4fa;
+}
+.team-list-item {
+  background-color: var(--team-item-bg-color);
 }
 .team-title {
   font-size: 36px;
